@@ -8,6 +8,7 @@ void setup() {
   pinMode(echo, INPUT);
   pinMode(relay, OUTPUT);
   Serial.begin(9600);
+  
 }
 void loop() {
   digitalWrite(trig, HIGH);
