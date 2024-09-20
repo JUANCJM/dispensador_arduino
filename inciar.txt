@@ -1,0 +1,1 @@
+Este proyecto, `dispensador.ino`, es un programa para controlar un dispositivo dispensador. El dispositivo está diseñado para distribuir automáticamente una sustancia en intervalos de tiempo específicos. El código incluye configuraciones para ajustar la cantidad y la frecuencia de la dispersión.
